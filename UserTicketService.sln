@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTicketService", "UserTicketService.csproj", "{91D9BA53-9DE2-4A41-A108-5A7073B2E48B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator.csproj", "{91D9BA53-9DE2-4A41-A108-5A7073B2E48B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTicketService.Test", "..\UserTicketService.Test\UserTicketService.Test.csproj", "{0521BD0E-E0AA-4300-8469-557320766818}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Test", "..\UserTicketService.Test\Calculator.Test.csproj", "{0521BD0E-E0AA-4300-8469-557320766818}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
